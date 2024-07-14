@@ -15,7 +15,7 @@
 >Then git directly git add||commit . /
 
 实际VScode报了很多错。
- The actual VScode reported a lot of errors. 
+>The actual VScode reported a lot of errors. 
 
 但只能这样了，赶紧进行下一个部分了。
 >But that's all I can do to get to the next part. 
